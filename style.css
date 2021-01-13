@@ -3,10 +3,14 @@
     padding: 0;
 }
 
-.custom-slide {
+.custom-slide,
+.subscribe-area {
     background-color: #fceae8;
-    padding: 20px 0px;
     border-radius: 10px;
+    margin-bottom: 70px;
+}
+.custom-slide {
+    padding: 20px 0px;
     margin-top: 100px;
 }
 
@@ -33,3 +37,16 @@
     background-color: #0000ff;
 }
 /* Categories Area Starts Here */
+
+.panda-card {
+    border: 0px;
+}
+
+.panda-card-footer {
+    border: 0px;
+    background-color: white;
+}
+
+.subscribe-area {
+    height: 300px;
+}
